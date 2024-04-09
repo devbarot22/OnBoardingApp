@@ -16,7 +16,7 @@ To run this project locally, follow these steps:
 1. Clone the repository:
 
     ```
-    git clone https://github.com/yourusername/onboarding-form.git
+    git clone https://github.com/devbarot22/OnBoardingApp.git
     ```
 
 2. Install dependencies:
