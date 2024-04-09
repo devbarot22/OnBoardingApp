@@ -121,7 +121,7 @@ const QandA = () => {
           <button type='button' className={`flex bg-black text-white py-2 max-sm:hidden ${isInitialRender ? 'w-auto px-4' : 'w-2 pl-3 max-md:pl-[7px] hover:px-4 hover:w-auto'} rounded-md mr-5 transition-all ease-out duration-300`} >
             <HiOutlineQuestionMarkCircle size={26} /><h1 className='ml-2'>Help</h1>
           </button>
-          <button type='button' title='Help' className={`flex bg-black text-white py-2 sm:hidden ${isInitialRender ? 'w-auto px-4' : 'w-2 pl-3 max-md:pl-[7px] hover:px-4 hover:w-auto'} rounded-md mr-2 transition-all ease-out duration-300`} >
+          <button type='button' title='Help' className={`flex bg-black text-white py-2 sm:hidden ${isInitialRender ? 'w-auto px-4' : 'w-2 pl-3 max-md:pl-[7px] hover:px-4 hover:w-auto'} rounded-md mr-px transition-all ease-out duration-300`} >
             <HiOutlineQuestionMarkCircle size={26} />
           </button>
           </a>
